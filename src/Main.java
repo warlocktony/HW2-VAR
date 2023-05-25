@@ -98,7 +98,7 @@ public class Main {
         var newNumberOfEmployees = 94;
         var allStaff = numberOfEmployees + newNumberOfEmployees;
         var newStaffHour = allStaff * oneEmployeeHour;
-        System.out.println("if the company works " + allStaff + " people,that 's all " + newStaffHour + " hours of work can be divided between employees");
+        System.out.println("if the company works " + allStaff + " people,that's all " + newStaffHour + " hours of work can be divided between employees");
         
 
     }
